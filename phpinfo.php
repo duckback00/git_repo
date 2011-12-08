@@ -1,7 +1,9 @@
 <?php
 
-print "Hello";
+print "Hello<br />";
 
 phpinfo();
+
+print "Done ... <br />\n";
 
 ?>
