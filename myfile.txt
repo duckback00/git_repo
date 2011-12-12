@@ -1,3 +1,5 @@
+myfile4
+
 added with the following command ...
 
 git add myfile.txt
