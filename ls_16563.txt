@@ -1,6 +1,0 @@
-ls_16563.txt
-myfile.txt
-phpinfo.php
-push_test.txt
-README_Moe.txt
-test.sh

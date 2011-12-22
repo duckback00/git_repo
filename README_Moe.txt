@@ -1,3 +1,0 @@
-Test from Linux ...
-
-Updated from master repository

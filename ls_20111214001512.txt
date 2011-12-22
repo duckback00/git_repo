@@ -1,7 +1,0 @@
-ls_16563.txt
-ls_20111214001512.txt
-myfile.txt
-phpinfo.php
-push_test.txt
-README_Moe.txt
-test.sh
