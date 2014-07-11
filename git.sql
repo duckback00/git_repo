@@ -4,7 +4,7 @@ begin
    select count(*) into v_cnt from all_objects; 
    --select sysdate from dual; 
    dbms_output.put_line('Hello from GIT ... '||v_cnt); 
-   --update test123
+   --update test
 end; 
 /
 
